@@ -1,8 +1,8 @@
 const arr = [
-    { songName: "Jale 2", url: "./songs/Jale 2.mp3", img: "./images/jale.jpg" },
-    { songName: "Pehle Bhi Main", url: "./songs/Pehle Bhi Main.mp3", img: "./images/animal.jpg" },
-    { songName: "Ram Siya Ram", url: "./songs/Ram Siya Ram.mp3", img: "./images/ram.jpg" },
-    { songName: "Arjan Vailly", url: "./songs/Arjan Vailly Ne.mp3", img: "./images/animal.jpg" }
+    { songName: "Jale 2", url: "./songs/Jale 2.mp3", img: "./images/jale.webp" },
+    { songName: "Pehle Bhi Main", url: "./songs/Pehle Bhi Main.mp3", img: "./images/animal.webp" },
+    { songName: "Ram Siya Ram", url: "./songs/Ram Siya Ram.mp3", img: "./images/ram.webp" },
+    { songName: "Arjan Vailly", url: "./songs/Arjan Vailly Ne.mp3", img: "./images/animal.webp" }
 ]
 let allSongs = document.querySelector("#all-songs");
 let poster = document.querySelector("#left");
